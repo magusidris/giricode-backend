@@ -15,52 +15,52 @@ class CategorySeeder extends Seeder
     public function run()
     {
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'Vue Js',
             'slug'      => 'vue-js',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'React Js',
             'slug'      => 'react-js',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'PHP',
             'slug'      => 'php',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'Nuxt Js',
             'slug'      => 'nuxt-js',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'Laravel',
             'slug'      => 'laravel',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'Lumen',
             'slug'      => 'lumen',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'Python',
             'slug'      => 'python',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'JavaScript',
             'slug'      => 'javascript',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'CodeIgniter',
             'slug'      => 'codeigniter',
         ]);
         Category::create([
-            'image'     => 'abcdrfere',
+            'image'     => 'dummy',
             'name'      => 'DevOps',
             'slug'      => 'devops',
         ]);
